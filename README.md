@@ -2,6 +2,10 @@
 
 I am currently enrolled in a Fellowship scheme with Makers Academy where I am undertaking a 3 month Software Development course in order to improve my competency with various Software Engineering technologies spanning both front and back end development. My goal is to joing a tech first startup that adheres to modern Software Engineering practices, including TDD, Agile and DevOps, where I can make a difference.
 
+Prior to joining the Makers Academy Fellowship, I was a Technical Recruiter for several years where I worked within the Software Engineering space, more specifically working with Tech Startups sourcing FullStack and DevOps Engineers.
+
+
+
 ## Skills
 
 #### This Skill
@@ -23,9 +27,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2017 - March 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to trach myself how to code, starting with Ruby, Javascript and a small amount of Java.
+
+My technical curiosity has led me down several different paths, the most interesting being DevOps and Blockchain technologies. 
+
+
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
