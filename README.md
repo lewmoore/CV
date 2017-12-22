@@ -52,7 +52,9 @@ My technical curiosity has led me down several different paths, the most interes
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**SapientRazrofish** (Sep 17 - Dec 17)    
+*Technical Recruiter - DevOps & Full Stack*  
+**Talentful** (Jul 17 - Sep 17)   
+*Talent Partner*  
+**eSynergy Solutions** (Nov 15 - Jul 17)
+*DevOps Recruitment Consultant*
