@@ -26,6 +26,21 @@ I created hiring plans for this initiatve and set up Kanban boards and Trello bo
 #### Adaptable
 During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
 
+## Education
+
+#### Makers Academy (November 2017 - March 2018)
+
+I am a Fullstack Developer and was one of the first six to be offered a place on the Makers Academy Fellowship. Being at Makers Academy has reinforced my love for technology, shown me the benefits of modern Software Engineering processes as well as broadening my technical horizons and feeding my curiosity. 
+
+I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to teach myself how to code, starting with Ruby, Javascript and a small amount of Java.
+
+My technical curiosity has led me down several different paths, the most interesting being DevOps and Blockchain technologies. 
+
+- OOP, TDD, Clean Code
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
 ## Projects
 | Project(link) | Tech Stack    | Approach  | 
 | ------------- |:-------------:| :----------:| 
@@ -34,29 +49,6 @@ During my time as a technical recruiter, I have worked in many different teams w
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project |
 | [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project |
 |[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project |
-
-
-
-## Education
-
-#### Makers Academy (November 2017 - March 2018)
-
-I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to teach myself how to code, starting with Ruby, Javascript and a small amount of Java.
-
-My technical curiosity has led me down several different paths, the most interesting being DevOps and Blockchain technologies. 
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Guildford College (2010 - 2012)
-- Business Studies Diploma
-- Distinction
-
-#### Howard Of Effingham School (2005 - 2010)
-- 12 GCSE’s A* - C
-- AS Level Economics, Psychology & Business Studies
 
 
 ## Experience
@@ -72,3 +64,14 @@ My technical curiosity has led me down several different paths, the most interes
 **eSynergy Solutions** (Nov 15 - Jul 17)
 *DevOps Recruitment Consultant*
 - Senior Recruitment Consultant for London based recruitment agency. Most of my time here was spent headhunting DevOps Engineers for public and private sector clients and lead a team of delivery consultants.
+
+
+## Further Education
+
+#### Guildford College (2010 - 2012)
+- Business Studies Diploma
+- Distinction
+
+#### Howard Of Effingham School (2005 - 2010)
+- 12 GCSE’s A* - C
+- AS Level Economics, Psychology & Business Studies
