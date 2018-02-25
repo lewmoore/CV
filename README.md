@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a Full Stack developer and Makers Academy Fellow with a curiosity and passion for technology that drives me to always be exploring new things. My goal is to joing a tech first startup that adheres to modern Software Engineering practices, including TDD, XP and DevOps, where I can make a difference.
+I am a Full Stack developer and Makers Academy Fellow with a curiosity and passion for technology that drives me to always be exploring new things. My goal is to joing a technology driven company that adheres to modern Software Engineering practices, including TDD, XP and DevOps, where I can make a difference.
 
 I take immense pride in what I do and I thrive within innovative environments where creativity is encouraged. My aim is to join a company that understands the value of technology where I can help deliver clean, well-crafted code.
 
@@ -22,7 +22,7 @@ Whilst working at Sapient Razorfish, I was responsible for the delivery of the c
 
 I created hiring plans for this initiatve and set up Kanban boards and Trello boards for each role that was open. Tracked the status of each application from phone screening to technical interview and through to offer stage. 
 
-### Adaptable
+#### Adaptable
 During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
 
 
