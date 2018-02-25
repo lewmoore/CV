@@ -1,13 +1,14 @@
-## Lewis Moore CV
+## Lewis Moore
 [My Blog](https://blog.makersacademy.com/meet-the-makers-fellows-lewis-moore-dc1b8bd53c75) |[ LinkedIn](https://www.linkedin.com/in/lewismoore1/) | [Twitter](https://twitter.com/Lewmoore11)
 
-### About Me
+## Who am I?
 
 I am a Full Stack developer and Makers Academy Fellow with a curiosity and passion for technology that drives me to always be exploring new things. My goal is to joing a technology driven company that adheres to modern Software Engineering practices, including TDD, XP and DevOps, where I can make a difference.
 
 I take immense pride in what I do and I thrive within innovative environments where creativity is encouraged. My aim is to join a company that understands the value of technology where I can help deliver clean, well-crafted code.
 
-My broad, high level knowledge of the London technology space allows me to have a unique view on current technology trends and direction of technology.
+What I enjoy the most about Software Engineering is the ability to be able to enter the industry regardless of your background. This makes programming such a diverse industry to be a part of and allows me to both meet and work with a huge range of individuals that share the same passion as me.
+
 
 ## Skills
 
@@ -24,6 +25,16 @@ I created hiring plans for this initiatve and set up Kanban boards and Trello bo
 
 #### Adaptable
 During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
+
+## Projects
+| Project(link) | Tech Stack    |  Approach  | 
+| ------------- |:-------------:| ---------:| 
+| [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project 
+| [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project |
+| [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project |
+| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip | Solo Project |
+|[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project |
+
 
 
 ## Education
