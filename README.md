@@ -1,60 +1,62 @@
 ## Lewis Moore CV
 
-I am currently enrolled in a Fellowship scheme with Makers Academy where I am undertaking a 3 month Software Development course in order to improve my competency with various Software Engineering technologies spanning both front and back end development. My goal is to joing a tech first startup that adheres to modern Software Engineering practices, including TDD, Agile and DevOps, where I can make a difference.
+### About Me
 
-Prior to joining the Makers Academy Fellowship, I was a Technical Recruiter for several years where I worked within the Software Engineering space, more specifically working with Tech Startups sourcing FullStack and DevOps Engineers.
+I am a Full Stack developer and Makers Academy Fellow with a curiosity and passion for technology that drives me to always be exploring new things. My goal is to joing a tech first startup that adheres to modern Software Engineering practices, including TDD, XP and DevOps, where I can make a difference.
 
+I take immense pride in what I do and I thrive within innovative environments where creativity is encouraged. My aim is to join a company that understands the value of technology where I can help deliver clean, well-crafted code.
 
+My broad, high level knowledge of the London technology space allows me to have a unique view on current technology trends and direction of technology.
 
 ## Skills
 
-#### This Skill
+#### Collaboration & Team Work
+Throughout my career, I have developed team working skills and realised the importance of collaboration within teams. Since joining Makers Academy, I have taken an interest in Extreme Programming and the principles associated with it. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my time at eSynergy Solutions, I was part of a Digital Transformation delivery team where I was responsible for delivering Full Stack Developers and DevOps Engineers to a variety of technology companies. I had to collaborate with my peers to ensure that all of our roles where delivered to on time without sacrificing on quality. We held daily stand ups to ensure all team members had visibility on the days work, and we had weekly retros in odrder to keep up to date with our previously set time frames.
 
-- Experience
-- Achievements
-- Evidence
+#### Proactive
+I am a very proactive person and I am familiar with using my initiative to complete tasks and improve processes. 
+Whilst working at Sapient Razorfish, I was responsible for the delivery of the companies entire DevOps function. Before my joining, the company had no existing DevOps team and it was still very new to the company. I was brought in to help set up the hiring of this function and create quarterly plans of the delivery of DevOps Engineers, from Junior engineers to Senior Managers.
 
-#### Another Skill
+I created hiring plans for this initiatve and set up Kanban boards and Trello boards for each role that was open. Tracked the status of each application from phone screening to technical interview and through to offer stage. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Adaptable
+During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
 
-I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to trach myself how to code, starting with Ruby, Javascript and a small amount of Java.
+I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to teach myself how to code, starting with Ruby, Javascript and a small amount of Java.
 
 My technical curiosity has led me down several different paths, the most interesting being DevOps and Blockchain technologies. 
-
-
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Guildford College (2010 - 2012)
+- Business Studies Diploma
+- Distinction
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+### Howard Of Effingham School (2005 - 2010)
+- 12 GCSE’s A* - C
+- AS Level Economics, Psychology & Business Studies
 
-#### Any other qualifications
 
 ## Experience
 
-**SapientRazrofish** (Sep 17 - Dec 17)    
+**SapientRazorfish** (Sep 17 - Dec 17)    
 *Technical Recruiter - DevOps & Full Stack*  
+- Brought on to build the companies DevOps capability within the UK. Delivered to large scale digital transformation projects mainly in the Banking sector.
+
 **Talentful** (Jul 17 - Sep 17)   
 *Talent Partner*  
+- Talent Partner for the UKs largest independent digital agency, dealing solely with technical roles based at the companies London office
+
 **eSynergy Solutions** (Nov 15 - Jul 17)
 *DevOps Recruitment Consultant*
+- Senior Recruitment Consultant for London based recruitment agency. Most of my time here was spent headhunting DevOps Engineers for public and private sector clients and lead a team of delivery consultants.
