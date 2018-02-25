@@ -28,7 +28,7 @@ During my time as a technical recruiter, I have worked in many different teams w
 
 ## Projects
 | Project(link) | Tech Stack    | Approach  | 
-| ------------- |:-------------:| ----------:| 
+| ------------- |:-------------:| :----------:| 
 | [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 
 | [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project |
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project |
