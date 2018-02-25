@@ -27,12 +27,12 @@ I created hiring plans for this initiatve and set up Kanban boards and Trello bo
 During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
 
 ## Projects
-| Project(link) | Tech Stack    |  Approach  | 
-| ------------- |:-------------:| ---------:| 
-| [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project 
+| Project(link) | Tech Stack    | Approach  | 
+| ------------- |:-------------:| ----------:| 
+| [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 
 | [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project |
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project |
-| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip | Solo Project |
+| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project |
 |[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project |
 
 
@@ -54,7 +54,7 @@ My technical curiosity has led me down several different paths, the most interes
 - Business Studies Diploma
 - Distinction
 
-### Howard Of Effingham School (2005 - 2010)
+#### Howard Of Effingham School (2005 - 2010)
 - 12 GCSE’s A* - C
 - AS Level Economics, Psychology & Business Studies
 
