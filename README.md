@@ -18,14 +18,12 @@ Throughout my career, I have developed team working skills and realised the impo
 During my time at eSynergy Solutions, I was part of a Digital Transformation delivery team where I was responsible for delivering Full Stack Developers and DevOps Engineers to a variety of technology companies. I had to collaborate with my peers to ensure that all of our roles where delivered to on time without sacrificing on quality. We held daily stand ups to ensure all team members had visibility on the days work, and we had weekly retros in odrder to keep up to date with our previously set time frames.
 
 #### Proactive
-I am a very proactive person and I am familiar with using my initiative to complete tasks and improve processes. 
 Whilst working at Sapient Razorfish, I was responsible for the delivery of the companies entire DevOps function. Before my joining, the company had no existing DevOps team and it was still very new to the company. I was brought in to help set up the hiring of this function and create quarterly plans of the delivery of DevOps Engineers, from Junior engineers to Senior Managers.
 
 I created hiring plans for this initiatve and set up Kanban boards and Trello boards for each role that was open. Tracked the status of each application from phone screening to technical interview and through to offer stage. 
 
-#### Adaptable
-During my time as a technical recruiter, I have worked in many different teams with a lot of different people. This has allowed me to become very adaptable in the way that I work. I am able to work outside of my comfort zone and learn how to work effectively in several different environments. I have worked with several different organisations, ranging from a start up with around 20 people, to a global technology consultancy.
-
+#### Key Stakeholer Communication
+Add more here later, around taking specs, speaking with ctos, hiring managers, managing expectations, creating time frames, educating business stakeholders on the tech market.
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
@@ -42,13 +40,13 @@ My technical curiosity has led me down several different paths, the most interes
 - RSpec, Jasmine
 
 ## Projects
-| Project(link) | Tech Stack    | Approach  | 
-| ------------- |:-------------:| :----------:| 
-| [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 
-| [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project |
-| [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project |
-| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project |
-|[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project |
+| Project(link) | Tech Stack    | Approach  | Timeframe |
+| ------------- |:-------------:| :----------:| :-------:|
+| [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 1 Week |
+| [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project | 1 Week |
+| [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project | 1 Week |
+| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project | 2 Days |
+|[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project | 1 Week |
 
 
 ## Experience
