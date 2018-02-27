@@ -13,8 +13,6 @@ What I enjoy the most about Software Engineering is the ability to be able to en
 ## Skills
 
 #### Collaboration & Team Work
-Throughout my career, I have developed team working skills and realised the importance of collaboration within teams. Since joining Makers Academy, I have taken an interest in Extreme Programming and the principles associated with it. 
-
 During my time at eSynergy Solutions, I was part of a Digital Transformation delivery team where I was responsible for delivering Full Stack Developers and DevOps Engineers to a variety of technology companies. I had to collaborate with my peers to ensure that all of our roles where delivered to on time without sacrificing on quality. We held daily stand ups to ensure all team members had visibility on the days work, and we had weekly retros in odrder to keep up to date with our previously set time frames.
 
 #### Proactive
