@@ -21,7 +21,10 @@ Whilst working at Sapient Razorfish, I was responsible for the delivery of the c
 I created hiring plans for this initiatve and set up Kanban boards and Trello boards for each role that was open. Tracked the status of each application from phone screening to technical interview and through to offer stage. 
 
 #### Key Stakeholer Communication
-I am very familiar with communicating with various business stakeholders including CTOs, CEOs, Development Managers and Hiring Managers. Whilst working with SapientRazorfish, I reported to the VP of Tech as well as the DevOps hiring manager and during this time I frequently communicated our progress on hiring. As well as the successes we were experiencing, I also had to manage expectations regarding how long it takes to hire engineers and any negatives that were occuring. This ensured we had realistic targets and realistic expectations with regards to growth.
+I am very familiar with communicating with various business stakeholders including CTOs, CEOs, Development Managers and Hiring Managers. Whilst working with SapientRazorfish, I reported to the VP of Tech as well as the DevOps hiring manager and during this time I frequently communicated our progress on hiring. 
+
+As well as the successes we were experiencing, I also learnt to manage upwards with particularly difficult stakeholders. This was key to me successfully educating individuals on realistic expectations enabling me to provide a smooth and high quality service. I also improved my ability to communicate technical ideas and concepts to non-technical people. 
+
 
 ## Education
 
