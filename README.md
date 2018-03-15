@@ -42,14 +42,14 @@ My technical curiosity has led me down several different paths, the most interes
 - RSpec, Jasmine
 
 ## Projects
-| Project(link) | Tech Stack    | Approach  | Timeframe |
+| Project | Tech Stack    | Approach  | Timeframe |
 | ------------- |:-------------:| :----------:| :-------:|
+| [PickABook](https://github.com/lewmoore/pick_a_book_v2) | Elixir, Phoenix, React, JS, Jest, Enzyme | Final Project | 2 Weeks |
 | [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 1 Week |
 | [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project | 1 Week |
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project | 1 Week |
 | [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project | 2 Days |
 |[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project | 1 Week |
-| [PickABook](https://github.com/lewmoore/pick_a_book_v2) | Elixir, Phoenix, React, JS, Jest, Enzyme | Final Project | 2 Weeks |
 
 
 ## Experience
