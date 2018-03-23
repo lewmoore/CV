@@ -13,7 +13,7 @@ What I enjoy the most about Software Engineering is the ability to be able to en
 ## Skills
 
 #### Collaboration & Team Work
-During my time at eSynergy Solutions, I was part of a Digital Transformation delivery team where I was responsible for delivering Full Stack Developers and DevOps Engineers to a variety of technology companies. I had to collaborate with my peers to ensure that all of our roles where delivered to on time without sacrificing on quality. We held daily stand ups to ensure all team members had visibility on the days work, and we had weekly retros in odrder to keep up to date with our previously set time frames.
+During my time at eSynergy Solutions, I was part of a Digital Transformation delivery team where I was responsible for delivering Full Stack Developers and DevOps Engineers to a variety of technology companies. I had to collaborate with my peers to ensure that all of our roles where delivered to on time without sacrificing on quality. We held daily stand ups to ensure all team members had visibility on the days work, and we had weekly retros in order to keep up to date with our previously set time frames.
 
 #### Proactive
 Whilst working at Sapient Razorfish, I was responsible for the delivery of the companies entire DevOps function. Before my joining, the company had no existing DevOps team and it was still very new to the company. I was brought in to help set up the hiring of this function and create quarterly plans of the delivery of DevOps Engineers, from Junior engineers to Senior Managers.
