@@ -1,6 +1,6 @@
-[center] ## Lewis Moore
+## Lewis Moore
 [My Blog](https://blog.makersacademy.com/meet-the-makers-fellows-lewis-moore-dc1b8bd53c75) |[ LinkedIn](https://www.linkedin.com/in/lewismoore1/) | [Twitter](https://twitter.com/Lewmoore11) | [Website](https://lewmoore.github.io/)
-[/center]
+
 ## Who am I?
 
 I am a Full Stack developer and Makers Academy Fellow with a curiosity and passion for technology that drives me to always be exploring new things. My goal is to joing a technology driven company that adheres to modern Software Engineering practices, including TDD, XP and DevOps, where I can make a difference.
