@@ -1,5 +1,7 @@
-## Lewis Moore
-[My Blog](https://blog.makersacademy.com/meet-the-makers-fellows-lewis-moore-dc1b8bd53c75) |[ LinkedIn](https://www.linkedin.com/in/lewismoore1/) | [Twitter](https://twitter.com/Lewmoore11) | [Website](https://lewmoore.github.io/)
+<center> ## Lewis Moore </center>
+
+[My Blog](https://blog.makersacademy.com/meet-the-makers-fellows-lewis-moore-dc1b8bd53c75) |[ LinkedIn](https://www.linkedin.com/in/lewismoore1/) | [Twitter](https://twitter.com/Lewmoore11) | [Website](https://lewmoore.github.io/) 
+
 
 ## Who am I?
 
