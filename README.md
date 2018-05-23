@@ -36,7 +36,7 @@ I am a Fullstack Developer and was one of the first six to be offered a place on
 
 I discovered my passion for the tech industry whilst I was a Technical Recruiter and this led me to begin to learn as much as I could about the IT industry through speaking with Engineers, attending meetups and discussing roles with clients. I then began to teach myself how to code, starting with Ruby, Javascript and a small amount of Java.
 
-My technical curiosity has led me down several different paths, the most interesting being DevOps, Blockchain technologies and Node. 
+My technical curiosity has led me down several different paths. Most recently I have been exploring APIs, authentication and Javscript (mostly Node).
 
 - OOP, TDD, Clean Code
 - Agile/XP
