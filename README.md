@@ -54,7 +54,7 @@ Below is a list of various group projects that I completed during the Makers Aca
 | [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 1 Week |
 | [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project | 1 Week |
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project | 1 Week |
-| [Instagram Clone](https://github.com/lewmoore/instagram-challenge) | Ruby, Rails, Capybara, Devise, Paperclip |Solo Project | 2 Days |
+| [NodeAPI](https://github.com/lewmoore/NodeAPI) | Javascript, Node, Mocha, Chai |Solo Project | 2 Days |
 |[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project | 1 Week |
 
 
