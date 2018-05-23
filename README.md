@@ -46,7 +46,9 @@ My technical curiosity has led me down several different paths. Most recently I 
 ## Projects
 Since being at Makers Academy I have completed many different projects using many different technologies. Most recently I have been working with NodeJS and have created various APIs including [NoteStore](https://github.com/lewmoore/NoteStore) and [NodeAPI](https://github.com/lewmoore/NodeAPI). I have also started experimenting with PassportJS by building [NodeAuth](https://github.com/lewmoore/NodeAuth) to learn more about authentication.
 
-Below is a list of various group projects that I completed during the Makers Academy course.
+Other applications include [JavaWebService](https://github.com/lewmoore/JavaWebService), [RockPaperScissors](https://github.com/lewmoore/RockPaperScissors) and [CapitalOnederNode](https://github.com/lewmoore/CapitalOnederNode)
+
+Below is a list of various group projects that I was a part of during the Makers Academy course.
 
 | Project | Tech Stack    | Approach  | Timeframe |
 | ------------- |:-------------:| :----------:| :-------:|
@@ -54,7 +56,6 @@ Below is a list of various group projects that I completed during the Makers Aca
 | [MakersBnB](https://github.com/Leigan0/makers-bnb) | Ruby, Sinatra, PostGres, Stripe Integration, RSpec, Capybara| Group Project | 1 Week |
 | [Notepad Application](https://github.com/lewmoore/notepad) | Vanilla JS | Group Project | 1 Week |
 | [Yelp! Clone](https://github.com/SimonBao/PigeonYelp) | Ruby, Rails, RSpec, Capybara, OmniAuth, CarrierWave, Amazon S3 | Group Project | 1 Week |
-| [NodeAPI](https://github.com/lewmoore/NodeAPI) | Javascript, Node, Mocha, Chai |Solo Project | 2 Days |
 |[Thermostat App](https://github.com/lewmoore/Thermostat) | Javascript, JQuery, Jasmine | Pairing Project | 1 Week |
 
 
