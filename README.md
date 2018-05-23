@@ -44,6 +44,8 @@ My technical curiosity has led me down several different paths. Most recently I 
 - RSpec, Jasmine
 
 ## Projects
+Below is a list of various group projects that I completed during the Makers Academy course.
+
 | Project | Tech Stack    | Approach  | Timeframe |
 | ------------- |:-------------:| :----------:| :-------:|
 | [PickABook](https://github.com/lewmoore/pick_a_book_v2) | Elixir, Phoenix, React, JS, Jest, Enzyme | Final Project | 2 Weeks |
