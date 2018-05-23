@@ -44,6 +44,8 @@ My technical curiosity has led me down several different paths. Most recently I 
 - RSpec, Jasmine
 
 ## Projects
+Since being at Makers Academy I have completed many different projects using many different technologies. Most recently I have been working with NodeJS and have created various APIs including [NoteStore](https://github.com/lewmoore/NoteStore) and [NodeAPI](https://github.com/lewmoore/NodeAPI). I have also started experimenting with PassportJS by building [NodeAuth](https://github.com/lewmoore/NodeAuth) to learn more about authentication.
+
 Below is a list of various group projects that I completed during the Makers Academy course.
 
 | Project | Tech Stack    | Approach  | Timeframe |
